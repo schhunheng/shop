@@ -11,5 +11,5 @@
     }
     else echo 'Connected!';
     
-    $conn->close();
+    // $conn->close();
 ?>
