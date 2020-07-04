@@ -32,7 +32,7 @@
   <div class="products">
   <?php 
       include "includes/category.php";
-      include "includes/products.php";
+      include "includes/productdetail.php";
   ?>     
   </div>
    
