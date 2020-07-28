@@ -1,0 +1,90 @@
+.productimage{
+   width:75%;
+   height: 400px;
+   float:left;
+   border:1px solid #000000;
+ 
+}
+.images{
+   width: 50%;
+   float:left;
+   position: relative;
+   background-color:blue;
+}
+#discount{
+   position: absolute;
+   top:20px;
+   right: 20px;
+}
+.images #img{
+   /* position: absolute; */
+   width: 50%;
+   margin-top: 50px;
+   margin-left: 25%;
+   margin-bottom: 50px;
+}
+.smallimages{
+   width: 100%;
+   background-color: green;
+   position: relative;
+}
+.smallimages img{
+   width:20%;
+   height: auto;
+   border: 1px solid #ccc;
+   padding: 5px;
+   float: left;
+   margin-left: 10%;
+   margin-top: 25px;
+   margin-bottom: 20px;
+}
+  
+.productdetailsection{
+   width: 50%;
+   float:left;
+   position: relative;
+   background-color: green;
+   text-align:left;
+}
+#originalvalues{
+   position: absolute;
+   top:10px;
+   right: 25px;
+}
+.reviewsection{
+   width: 70%;
+}
+.comments {
+   width: 75%;
+}
+.comments img{
+   width: 100px;
+   height: 100px;
+   border-radius: 50px;
+   background-color: gold;
+}
+.coo
+.writecomment{
+   position: relative;
+   width: 70%;
+   background-color: yellow;
+}
+#textarea{
+   width: 75%;
+   display:block;
+}
+legend {
+   display: block;
+   padding-left: 2px;
+   padding-right: 2px;
+   border: none;
+ }
+ .buttons{
+    position: absolute;
+    right:20px;
+    bottom:10px;
+ }
+ .buttons button{
+    margin:15px
+ }
+
